@@ -14,7 +14,7 @@ class Program
             }
             for(int i=1; i<=row; i++)
             {
-                Console.Write("*");
+                Console.Write($"{row}");
             }
             Console.WriteLine();
         }
